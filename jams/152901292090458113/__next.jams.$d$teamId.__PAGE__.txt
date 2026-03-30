@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js?dpl=dpl-mnd6xws6","/_next/static/chunks/d2be314c3ece3fbe.js?dpl=dpl-mnd6xws6"],"OutletBoundary"]
+3:"$Sreact.suspense"
+:HL["https://cdn.discordapp.com/avatars/152901292090458113/b9ea68cc1493f8624d46cc071ea86fcd.webp","image"]
+0:{"buildId":"cXUUljCflbtVFRgHUi4Wr","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","div",null,{"className":"fPSBzf pvuga gasSYy bYPznK","children":[["$","div","152901292090458113",{"className":"fPSBzf bYPztT pKjuE dluuKX","children":[["$","div",null,{"className":"dDifmo cGFOJB gnlqYH cAdXLc","style":{"width":"30px","height":"30px","minWidth":"30px","minHeight":"30px"},"title":"vambok","children":["$","img",null,{"width":30,"height":30,"src":"https://cdn.discordapp.com/avatars/152901292090458113/b9ea68cc1493f8624d46cc071ea86fcd.webp","alt":"vambok's avatar"}]}],["$","span",null,{"className":"hGHvhs","children":"vambok"}],"$undefined"]}]]}],null]}],[["$","script","script-0",{"src":"/_next/static/chunks/d0aaba5a2e50fc95.js?dpl=dpl-mnd6xws6","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
